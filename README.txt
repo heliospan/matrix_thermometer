@@ -1,4 +1,4 @@
 The project uses DHT and  LEDcontrol libraries. 
 
-![alt tag](https://raw.github.com/heliospan/matrix_thermometer/wiring.jpg)
+![wiring](https://github.com/heliospan/matrix_thermometer/blob/master/result.jpg?raw=true)
 ![alt tag](https://raw.github.com/heliospan/matrix_thermometer/result.jpg)
